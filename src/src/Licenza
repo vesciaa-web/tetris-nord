@@ -1,1 +1,18 @@
 ### Istruzioni rapide per pubblicare su GitHub
+1. `git init`
+2. `git add .`
+3. `git commit -m "Initial commit: Tetris Polo Nord"`
+4. Crea una repo su GitHub e collega il remote: `git remote add origin <url>`
+5. `git push -u origin main`
+
+
+---
+
+
+Se vuoi, posso:
+- generare direttamente un file ZIP con questi file (posso creare il contenuto qui),
+- adattare il progetto per Create React App invece che Vite,
+- aggiungere suoni, punteggi, o una schermata iniziale con mascotte (orso polare!).
+
+
+Dimmi quale opzione preferisci e procedo.
