@@ -1,0 +1,12 @@
+# Tetris Polo Nord
+
+
+Semplice Tetris creato con React + Vite, con tema "Polo Nord". Gioca con le frecce della tastiera.
+
+
+## Come eseguire
+
+
+```bash
+npm install
+npm run dev
